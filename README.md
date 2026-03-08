@@ -1,3 +1,4 @@
+#https://docs.google.com/presentation/d/1kMKzr4IjG5epS_WsnbHYBYfxqtJDQNAJcYswwQoD62o/edit?usp=sharing
 # Introduction-to-Business-Intelligence-Power-BI
 
 What type of chart was created? 

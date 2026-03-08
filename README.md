@@ -1,4 +1,5 @@
-#https://docs.google.com/presentation/d/1kMKzr4IjG5epS_WsnbHYBYfxqtJDQNAJcYswwQoD62o/edit?usp=sharing
+[LW1 - Introduction to Business Intelligence & Power BI.pdf](https://github.com/user-attachments/files/25822447/LW1.-.Introduction.to.Business.Intelligence.Power.BI.pdf)
+
 # Introduction-to-Business-Intelligence-Power-BI
 
 What type of chart was created? 
